@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!-- My Blue Rocket stars are no longer included :-(
 ![msqr GitHub stats](https://github-readme-stats.vercel.app/api?username=msqr&show_icons=true&theme=default&count_private=true)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msqr&layout=compact)
 
 ### 🙊
